@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Reservas de asientos del cine\Reservas de asientos del cine\bin\Debug\net7.0\Reservas de asientos del cine.exe
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Reservas de asientos del cine\Reservas de asientos del cine\bin\Debug\net7.0\Reservas de asientos del cine.deps.json
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Reservas de asientos del cine\Reservas de asientos del cine\bin\Debug\net7.0\Reservas de asientos del cine.runtimeconfig.json
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Reservas de asientos del cine\Reservas de asientos del cine\bin\Debug\net7.0\Reservas de asientos del cine.dll
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Reservas de asientos del cine\Reservas de asientos del cine\bin\Debug\net7.0\Reservas de asientos del cine.pdb
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Reservas de asientos del cine\Reservas de asientos del cine\obj\Debug\net7.0\Reservas de asientos del cine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Reservas de asientos del cine\Reservas de asientos del cine\obj\Debug\net7.0\Reservas de asientos del cine.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Reservas de asientos del cine\Reservas de asientos del cine\obj\Debug\net7.0\Reservas de asientos del cine.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Reservas de asientos del cine\Reservas de asientos del cine\obj\Debug\net7.0\Reservas de asientos del cine.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Reservas de asientos del cine\Reservas de asientos del cine\obj\Debug\net7.0\Reservas de asientos del cine.dll
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Reservas de asientos del cine\Reservas de asientos del cine\obj\Debug\net7.0\refint\Reservas de asientos del cine.dll
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Reservas de asientos del cine\Reservas de asientos del cine\obj\Debug\net7.0\Reservas de asientos del cine.pdb
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Reservas de asientos del cine\Reservas de asientos del cine\obj\Debug\net7.0\Reservas de asientos del cine.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Reservas de asientos del cine\Reservas de asientos del cine\obj\Debug\net7.0\ref\Reservas de asientos del cine.dll
